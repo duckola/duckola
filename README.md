@@ -61,15 +61,18 @@ I am a **3rd Year Computer Science student** at **Cebu Institute of Technology -
 
 ---
 
+---
+
 ### 📊 GitHub Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duckola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckola&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duckola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jasmin's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckola&layout=compact&theme=tokyonight&langs_count=6" alt="Jasmin's Top Languages" />
 </p>
 
 ### 🏆 Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duckola&theme=tokyonight&column=7" alt="trophy" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=duckola&theme=tokyonight&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -78,4 +81,5 @@ I am a **3rd Year Computer Science student** at **Cebu Institute of Technology -
 - 💼 **LinkedIn:** [Lee Jasmin Adolfo](https://www.linkedin.com/in/lee-jasmin-adolfo-113618373/)
 - 📧 **Email:** [leejasminadolfo@gmail.com](mailto:leejasminadolfo@gmail.com)
 - 🕸 **Portfolio:** [Adolfo — Autobiography & Portfolio](https://adolfo-portfolio.streamlit.app/)
+
 
