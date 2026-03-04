@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=A020F0&center=true&width=435&lines=Hi,+I'm+Jasmin!+👋">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=4B0082&center=true&width=435&lines=Hi,+I'm+Jasmin!+👋">
+  </picture>
+</p>
+
 # Hi there, I'm Lee Jasmin Adolfo! 👋 
 
 <p align="left">
