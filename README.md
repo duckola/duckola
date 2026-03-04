@@ -63,6 +63,13 @@ I am a **3rd Year Computer Science student** at **Cebu Institute of Technology -
 
 ---
 
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/duckola/duckola/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/duckola/duckola/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/duckola/duckola/output/github-snake.svg">
+</picture>
+
 ### 📊 GitHub Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=duckola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jasmin's GitHub Stats" />
