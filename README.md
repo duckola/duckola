@@ -79,4 +79,3 @@ I am a **3rd Year Computer Science student** at **Cebu Institute of Technology -
 - 📧 **Email:** [leejasminadolfo@gmail.com](mailto:leejasminadolfo@gmail.com)
 - 🕸 **Portfolio:** [Adolfo — Autobiography & Portfolio](https://adolfo-portfolio.streamlit.app/)
 
-<p align="right">(Customized for Jasmin ✨)</p>
