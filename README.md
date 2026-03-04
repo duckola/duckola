@@ -19,7 +19,7 @@ I am a **3rd Year Computer Science student** at **Cebu Institute of Technology -
     * Developed **ATAMAN**, a dual-interface system for Naga City General Hospital. 
     * Integrated a **Flutter** mobile app with **Smart Triage AI** and a **React** Command Center dashboard.
 * **Ceb-i Hacks** | *Top 10 Finalist*
-    * 6-week idea challenge creating AI-powered solutions for Cebu tourism and travel.
+    * 6-week idea challenge creating AI-powered solutions for Cebu tourism, travel and airport operations.
 * **UNESCO Youth Hackathon 2025** | *Participant*
     * Empowering youth to build MIL solutions for digital challenges.
 
