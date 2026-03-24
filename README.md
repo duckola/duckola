@@ -42,8 +42,8 @@ I am a **3rd Year Computer Science student** at **Cebu Institute of Technology -
 * **Bloom** – AI-driven exercise progress tracker and workout planner.
 
 #### 🌐 Web & Game Development
-* **TeknoGrub** – Full-stack canteen management system with automated inventory and student ordering (Django/PostgreSQL).
-* **Trials of Survival: Beyond the Sky** – A story-driven RPG built in Unity/C#.
+* **TeknoGrub** – Full-stack canteen management system with automated inventory and student ordering (Django).
+* **Trials of Survival: Beyond the Sky** – A story-driven RPG built in Java.
 
 ---
 
